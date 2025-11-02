@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=e6PkGDH4wWA
+2:08:40
+-----------------------------------
+SUPERUSER
+Fenix_123@gmail.com
+# 12345678
+fenix_1
+2345678
+-----------------------------------
+python manage.py runserver
+to dates: makemigrations -> migrate
+-----------------------------------
+cd PROYECTOS_PY\avanzado\Automatizacion_CRUD
+.\venv\Scripts\activate
+deactivate
+-----------------------------------
