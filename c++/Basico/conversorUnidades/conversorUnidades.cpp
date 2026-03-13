@@ -27,8 +27,8 @@ int main(){
 	char repit;
 	do {
         cout << "\n .:Calculadora en C++ :.\n"
-             << "1. Suma\n"
-             << "2. Resta\n"
+             << "1. Sumar\n"
+             << "2. Restar\n"
              << "3. Multiplicacion\n"
              << "4. Division\n"
              << "Elije una opcion: ";
